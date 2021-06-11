@@ -1,0 +1,3 @@
+include ':okhttputils'
+include ':app'
+rootProject.name = "wp api teat"
